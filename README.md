@@ -1,4 +1,4 @@
-# Gradient Descent-Based Financial Models (GDBF)
+# Stochastic Gradient Descent-Based Financial Models (GDBF)
 - Gradient Descent-Based Financial Model GDBF done by Joseph Bunster: 
 - This is the subject of Joseph Bunster's thesis work for his master of science in mathematics at NYU-Courant. 
 
