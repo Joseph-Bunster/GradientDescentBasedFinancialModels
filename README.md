@@ -53,8 +53,7 @@ Best of luck :smile:.
 
 Click on the button below to view the code in a Web IDE. Feel free to edit the code and then run it all from your browser.
 
-[![IDE](site-assets/editcloud9.png)](https://c9.io/open/git/?url=git://github.com/gdbf.git)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RedaMastouri/GradientDescentBasedFinancialModels/HEAD)
 [![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=gdbf)
 
 ## About the author: Joseph Bunster
