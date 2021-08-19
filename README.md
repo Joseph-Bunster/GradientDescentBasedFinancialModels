@@ -6,7 +6,7 @@
 
 ## Application of Gradient Descent in Financial Services
  
-![carbon](dataset/carbon.png)
+![img](dataset/carbon.png)
 
 <!--  carbon code -- can you guess what it does? Run and see the result!
 def gradient_loop(runs=3):
@@ -53,11 +53,11 @@ Best of luck :smile:.
 
 Click on the button below to view the code in a Web IDE. Feel free to edit the code and then run it all from your browser.
 
-[![IDE](site-assets/editcloud9.png)](https://c9.io/open/git/?url=https://github.com/RedaMastouri/GradientDescentBasedFinancialModels.git)
+[![IDE](site-assets/editcloud9.png)](https://c9.io/open/git/?url=git://github.com/gdbf.git)
 [![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=gdbf)
 
 ## About the author: Joseph Bunster
-![joe-bunster](dataset/joe-bunster.png)
+![img](dataset/joe-bunster.png)
 
 Joe Bunster is hardworking mathematics professional, passionate about applying my technical background to solving real world problems. I enjoy challenges and thrive under pressure, these traits helped me successfully compete in the 2018 US National Collegiate Mathematics Championship where I placed 3rd in the United States.
 
