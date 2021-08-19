@@ -45,7 +45,7 @@ In financial risk management, k nearest neighbor can be used to produce credit s
 
 The general application of gradient descent is such a simple yet powerful optimization that has found to be useful in many models used in financial institutions.
 
-Best of luck :smile:.
+That was it! :smile:.
 
 **Update:** **Work in progress** to the "GDBF" solution is available via [Cloning or forking the project artifact](https://github.com/RedaMastouri/GradientDescentBasedFinancialModels.git).
 
@@ -53,8 +53,9 @@ Best of luck :smile:.
 
 Click on the button below to view the code in a Web IDE. Feel free to edit the code and then run it all from your browser.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RedaMastouri/GradientDescentBasedFinancialModels/HEAD)
-[![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=gdbf)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RedaMastouri/GradientDescentBasedFinancialModels/HEAD)
+
+- [![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=gdbf)
 
 ## About the author: Joseph Bunster
 ![img](dataset/joe-bunster.png)
