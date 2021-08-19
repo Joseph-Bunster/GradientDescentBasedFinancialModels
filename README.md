@@ -1,11 +1,12 @@
 # Gradient Descent-Based Financial Models (GDBF)
-Gradient Descent-Based Financial Model GDBF done by Joseph Bunster (https://www.linkedin.com/in/joseph-bunster/): This is the subject of Joseph Bunster's thesis work for his master of science in mathematics at NYU-Courant. 
+- Gradient Descent-Based Financial Model GDBF done by Joseph Bunster: 
+- This is the subject of Joseph Bunster's thesis work for his master of science in mathematics at NYU-Courant. 
 
 
 
 ## Application of Gradient Descent in Financial Services
  
-![functions](dataset/carbon.png)
+![carbon](dataset/carbon.png)
 
 <!--  carbon code -- can you guess what it does? Run and see the result!
 def gradient_loop(runs=3):
@@ -48,8 +49,15 @@ Best of luck :smile:.
 
 **Update:** **Work in progress** to the "GDBF" solution is available via [Cloning or forking the project artifact](https://github.com/RedaMastouri/GradientDescentBasedFinancialModels.git).
 
+## View & Run in Web IDE
+
+Click on the button below to view the code in a Web IDE. Feel free to edit the code and then run it all from your browser.
+
+[![IDE](site-assets/editcloud9.png)](https://c9.io/open/git/?url=https://github.com/RedaMastouri/GradientDescentBasedFinancialModels.git)
+[![IDE](https://codio-public.s3.amazonaws.com/sharing/demo-in-ide.png)](https://codio.com/p/create/?from_github=gdbf)
+
 ## About the author: Joseph Bunster
-![functions](dataset/joe-bunster.png)
+![joe-bunster](dataset/joe-bunster.png)
 
 Joe Bunster is hardworking mathematics professional, passionate about applying my technical background to solving real world problems. I enjoy challenges and thrive under pressure, these traits helped me successfully compete in the 2018 US National Collegiate Mathematics Championship where I placed 3rd in the United States.
 
